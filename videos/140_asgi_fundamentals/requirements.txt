@@ -1,0 +1,5 @@
+httpx
+rich
+starlette
+fastapi
+uvicorn
